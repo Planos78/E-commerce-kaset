@@ -1,0 +1,60 @@
+{
+  "name": "kmitl-delivery",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^4.0.2",
+    "bootstrap": "^4.3.1",
+    "bulma": "^0.8.0",
+    "filepond": "^4.13.0",
+    "filepond-plugin-image-preview": "^4.6.1",
+    "firebase": "^7.11.0",
+    "git": "^0.1.5",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-filepond": "^7.0.1",
+    "react-firebaseui": "^4.0.0",
+    "react-redux": "^5.1.1",
+    "react-redux-firebase": "^2.1.8",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.3.0",
+    "reactstrap": "^8.1.1",
+    "redux": "^4.0.4",
+    "redux-firestore": "^0.5.7",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Planos78/KMITL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Planos78/KMITL/issues"
+  },
+  "homepage": "https://github.com/Planos78/KMITL#readme"
+}

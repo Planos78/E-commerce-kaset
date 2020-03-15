@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Planos78/KMITL/static/css/main.fa297b37.chunk.css",
+    "main.js": "/Planos78/KMITL/static/js/main.972c4ebe.chunk.js",
+    "main.js.map": "/Planos78/KMITL/static/js/main.972c4ebe.chunk.js.map",
+    "runtime-main.js": "/Planos78/KMITL/static/js/runtime-main.22490c37.js",
+    "runtime-main.js.map": "/Planos78/KMITL/static/js/runtime-main.22490c37.js.map",
+    "static/css/2.0624914a.chunk.css": "/Planos78/KMITL/static/css/2.0624914a.chunk.css",
+    "static/js/2.aca9c627.chunk.js": "/Planos78/KMITL/static/js/2.aca9c627.chunk.js",
+    "static/js/2.aca9c627.chunk.js.map": "/Planos78/KMITL/static/js/2.aca9c627.chunk.js.map",
+    "index.html": "/Planos78/KMITL/index.html",
+    "precache-manifest.749af2ed49de0cf91aebb945586aa50c.js": "/Planos78/KMITL/precache-manifest.749af2ed49de0cf91aebb945586aa50c.js",
+    "service-worker.js": "/Planos78/KMITL/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/Planos78/KMITL/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.fa297b37.chunk.css.map": "/Planos78/KMITL/static/css/main.fa297b37.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22490c37.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.aca9c627.chunk.js",
+    "static/css/main.fa297b37.chunk.css",
+    "static/js/main.972c4ebe.chunk.js"
+  ]
+}
